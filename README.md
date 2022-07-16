@@ -12,6 +12,9 @@ DiY Hour kit, Useless Box, acrylic laser cut
   - mounting hardware,
   - flexible wires, 
   
+  TO DO : 
+  - Add schematic wiring diagram
+  
   ![Useless Box render](/render/useless_box4_01.png)
   ![Useless Box render](/render/useless_box4_02.png)
   
