@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-22082019-079992";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"TE Connectivity DPDT Toggle Switch, On-Off-On, PCB";"";
+"TraceParts.InstanceId";"10-22082019-0799921C39K3OYHCGZ8OTVLB6M2NP9B";"";
+"TraceParts.PartTitle";"TE Connectivity DPDT Toggle Switch, On-Off-On, PCB";"";
+"TraceParts.PartStatusId";"";"";
+"REFERENCE";"1825139-9";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/7109858P?cm_mmc=en-ds-_-mcad-_-traceparts-_-7109858P'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"rs_stock_number";"7109858P";"";
+"TraceParts.ClassPath";"";"";

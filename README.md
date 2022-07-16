@@ -11,3 +11,7 @@ DiY Hour kit, Useless Box, acrylic laser cut
   - single cell battery holder (size AA/14500) : NOTE : It may be possible to use 4xAA holder for 6V AA, or maybe even a 9V battery (not tried)
   - mounting hardware,
   - flexible wires, 
+  
+  ![Useless Box render](/render/useless_box4_01.png)
+  ![Useless Box render](/render/useless_box4_02.png)
+  
